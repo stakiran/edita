@@ -102,7 +102,7 @@ If correct, you can pass and go to next stage.
 ```
 ==== edita.py ====
 Stage.01:xxxxx
-         23.28 sec.
+         82.28 sec.
 Stage.02:
 ```
 
