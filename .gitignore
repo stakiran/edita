@@ -1,0 +1,5 @@
+# wordlist files
+*.txt
+
+# game temp file
+*.temp
