@@ -20,7 +20,7 @@ def list2file(filepath, ls):
         f.writelines(['{:}\n'.format(line) for line in ls] )
 
 def get_lastmodified_nanotime(filename):
-    stat_result = os.stat('edita.temp')
+    stat_result = os.stat(filename)
     return stat_result.st_mtime_ns
 
 def get_now_by_dt():
